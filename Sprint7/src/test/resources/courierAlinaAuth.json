@@ -1,4 +1,4 @@
 {
-  "login": "Alina@ya.ru",
-  "password": "1234"
+  "login": "%s",
+  "password": "somepwd"
 }
